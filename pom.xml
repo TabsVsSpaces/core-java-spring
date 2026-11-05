@@ -52,7 +52,7 @@
   		<jose4j.version>0.6.5</jose4j.version>
   		<apache.commons.lang3.version>3.9</apache.commons.lang3.version>
   		<jms.api.version>2.0.1</jms.api.version>
-  		<activemq.client.version>5.15.9</activemq.client.version>
+  		<activemq.client.version>5.19.8</activemq.client.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 
